@@ -6,7 +6,7 @@
     #include <limits.h>
     #include <dlfcn.h>
 #elif defined SYSTEM_WINDOWS
-    #include <Windows.h>
+    #include <windows.h>
 #elif defined SYSTEM_SOLARIS
     #include <stdlib.h>
     #include <limits.h>
